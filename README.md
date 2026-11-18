@@ -2,7 +2,7 @@
   <img src="docs/assets/hero.png" alt="Day 09 Lab: pipeline kiểm nhãn tự động" width="100%">
 </p>
 
-# Day 09 Lab — Pipeline kiểm nhãn tự động
+# Day 09 Lab — Hoàng Sỹ Khiêm: 2A202603244 - Hoàng Sỹ Khiêm
 
 <p align="center">
   <img alt="cá nhân" src="https://img.shields.io/badge/lab-cá%20nhân-0b1f3a">
